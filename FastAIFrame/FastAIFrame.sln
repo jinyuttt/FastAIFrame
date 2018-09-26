@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAIFrame", "FastAIFrame\FastAIFrame.csproj", "{A6511909-C9A9-4F6B-AC03-7E87A58BBAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastAIFrame", "FastAIFrame\FastAIFrame.csproj", "{A6511909-C9A9-4F6B-AC03-7E87A58BBAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1E627EB8-3B9F-467C-940F-B0590438063E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastStream", "FastStream\FastStream.csproj", "{C14E7E94-B9F5-4E9F-8550-12D99526AC97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A6511909-C9A9-4F6B-AC03-7E87A58BBAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6511909-C9A9-4F6B-AC03-7E87A58BBAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6511909-C9A9-4F6B-AC03-7E87A58BBAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E627EB8-3B9F-467C-940F-B0590438063E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E627EB8-3B9F-467C-940F-B0590438063E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E627EB8-3B9F-467C-940F-B0590438063E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E627EB8-3B9F-467C-940F-B0590438063E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14E7E94-B9F5-4E9F-8550-12D99526AC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14E7E94-B9F5-4E9F-8550-12D99526AC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14E7E94-B9F5-4E9F-8550-12D99526AC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14E7E94-B9F5-4E9F-8550-12D99526AC97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,13 +7,13 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "FastAIFrame/1.0.0": {
+      "FastStream/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "log4net": "2.0.8"
         },
         "runtime": {
-          "FastAIFrame.dll": {}
+          "FastStream.dll": {}
         }
       },
       "log4net/2.0.8": {
@@ -930,7 +930,7 @@
     }
   },
   "libraries": {
-    "FastAIFrame/1.0.0": {
+    "FastStream/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
