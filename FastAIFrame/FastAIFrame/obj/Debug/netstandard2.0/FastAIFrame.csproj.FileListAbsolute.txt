@@ -1,0 +1,6 @@
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\bin\Debug\netstandard2.0\FastAIFrame.deps.json
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\bin\Debug\netstandard2.0\FastAIFrame.dll
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.csprojAssemblyReference.cache
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.csproj.CoreCompileInputs.cache
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.AssemblyInfoInputs.cache
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.AssemblyInfo.cs
