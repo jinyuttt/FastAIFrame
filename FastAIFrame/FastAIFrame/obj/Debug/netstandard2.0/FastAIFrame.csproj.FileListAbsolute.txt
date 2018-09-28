@@ -6,3 +6,4 @@ E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.
 E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\bin\Debug\netstandard2.0\FastAIFrame.pdb
 E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.dll
 E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.pdb
+E:\Study\vs\FastAI\FastAIFrame\FastAIFrame\obj\Debug\netstandard2.0\FastAIFrame.csprojAssemblyReference.cache
