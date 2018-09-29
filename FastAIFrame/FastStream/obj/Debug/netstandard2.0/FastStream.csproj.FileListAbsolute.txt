@@ -15,4 +15,3 @@ E:\Study\vs\FastAI\FastAIFrame\FastStream\obj\Debug\netstandard2.0\FastStream.pd
 E:\Study\vs\FastAI\FastAIFrame\FastStream\bin\Debug\netstandard2.0\FastStream.deps.json
 E:\Study\vs\FastAI\FastAIFrame\FastStream\bin\Debug\netstandard2.0\FastStream.dll
 E:\Study\vs\FastAI\FastAIFrame\FastStream\bin\Debug\netstandard2.0\FastStream.pdb
-E:\Study\vs\FastAI\FastAIFrame\FastStream\obj\Debug\netstandard2.0\FastStream.csprojAssemblyReference.cache

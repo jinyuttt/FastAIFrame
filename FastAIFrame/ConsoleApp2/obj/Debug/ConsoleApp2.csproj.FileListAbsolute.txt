@@ -105,3 +105,11 @@ E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreComp
 E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\NPOI.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\NPOI.OOXML.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\NPOI.xml
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\Npoi.Mapper.dll
+E:\Study\vs\FastAI\FastAIFrame\ConsoleApp2\bin\Debug\System.ComponentModel.Annotations.dll
